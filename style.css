@@ -478,6 +478,20 @@ main.adjust .mostrar:after {
 		display: block;
 		position: absolute;
 	}
+	
+	.mostrar:after {
+		content: "";
+		text-align: center;
+		padding-top: 20px;
+		font-family: Open Sans,sans-serif;
+		color: #3d464d;
+		top: 350px;
+		width: 10%;
+		height: 240px;
+		background: linear-gradient(180deg,hsla(0,0%,100%,.1),#fff);
+		display: block;
+		position: absolute;
+	}
 
 	.transcricao.noturn .mostrar:after {
 		background: linear-gradient(180deg,hsla(0,0%,10%,.1),#1b1b1c);
