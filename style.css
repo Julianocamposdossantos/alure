@@ -237,8 +237,6 @@ video {
 	max-width: 600px;
 	flex-direction: column;
 	margin: 0 auto;
-	background-color: white;
-	background: linear-gradient(180deg,hsla(0,0%,100%,.1),#fff)
 }
 
 main.adjust .transcricao {
@@ -354,7 +352,7 @@ main.adjust .mostrar:after {
 	padding-top: 20px;
 	font-family: Open Sans,sans-serif;
 	color: #3d464d;
-	top: 60%;
+	top: 62%;
 	width: 600px;
 	height: 200px;
 	background: linear-gradient(180deg,hsla(0,0%,100%,.1),#ffff);
